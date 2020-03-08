@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\leetcode\\code\\和为s的连续序列.js"
+            "program": "${workspaceFolder}\\leetcode\\code\\零钱兑换.js"
         }
     ]
 }
