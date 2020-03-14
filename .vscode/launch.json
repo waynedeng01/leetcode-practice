@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\leetcode\\code\\1013.js"
+            "program": "${workspaceFolder}\\leetcode\\code\\最长上升子序列.js"
         }
     ]
 }
